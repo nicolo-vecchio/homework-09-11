@@ -1,1 +1,4 @@
 # homework-09-11
+The reports regarding the component CO have been extracted from www.luchtmeetnet.nl. In particular, we looked at the max_year_day data (supposedly, the highest level of CO reached in a single day of the year), across a timespan that goes from 2015 to 2021.
+The data has been downloaded and then cleaned according to the indications. In the first document, the cells marked with an asterisk indicate that ‘Less than 90% of possible daily values are available’. In the second document, the asterisks have been removed and the measurement points have been added for each observation.
+The variable ‘measurement_point’ describes where a set of data has been measured. The variable ‘observation’ attributes a name to every observation. The remaining columns show the data relative to a specific year; the unit of measure used for CO levels is usually ‘parts per million’.
